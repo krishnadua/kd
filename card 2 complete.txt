@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="generator" content="CoffeeCup HTML Editor (www.coffeecup.com)">
+    <meta name="dcterms.created" content="Fri, 27 Jan 2023 17:08:18 GMT">
+    <meta name="description" content="">
+    <meta name="keywords" content="">
+    <title></title>
+	<style>
+	#ram2{
+height:350px;
+width:250px;
+border:black solid 3px;
+margin-top:160px;
+margin-left:80px;
+background-color:black;
+color:white;
+	} 
+		a{
+margin-left:60px;
+}
+	</style>
+
+  </head>
+  <body>
+  <div id="ram2">
+  <img src="https://images.indianexpress.com/2023/01/Suryakumar-Yadav-2-1.jpg?resize=450,250 height="100px" width="250px"" />
+ <b style="color:red;">
+Suryakumar Yadav named ICC Men’s T20I Player of the Year
+</b>
+<br />
+<p>
+JANUARY 25, 2023 16:53 IST
+Surya was the leading T20I run scorer in 2022, grabbing 1164 runs off 31 innings and was the only batter around the world to cross the 1000 run mark in the last calendar year.
+</p>
+
+<a href="file:///C:/Users/APEX/Desktop/card%202%20extra.html">READ MORE</a>
+ </div>
+
+  </body>
+</html>

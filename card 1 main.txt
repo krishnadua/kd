@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+<title></title>
+	<style>
+	#ram1{
+height:350px;
+width:250px;
+border:black solid 3px;
+margin-top:160px;
+margin-left:80px;
+background-color:black;
+color:white;
+	} 
+	a{
+margin-left:60px;
+}
+	</style>
+
+</head>
+
+<body>
+ 
+ <div id="ram1">
+ <img src="https://images.indianexpress.com/2023/01/Thakur-Rohit.jpg?resize=450,250" height="100px" width="250px" />
+ <br />
+ <p>
+ 
+ <b style="background-color:red;">With options running out, Rohit Sharma turned to old mate Shardul Thakur for breakthrough</b> <br /> <br />
+JANUARY 25, 2023 18:00 IST
+“He has got the knack of taking wickets at crucial times for us. We have seen it not just in ODI cricket but also in Test cricket," Rohit said on Thakur after the third India-New Zealand ODI.
+<br /><br />
+<a href="file:///C:/Users/APEX/Desktop/card%201%20extra.html">READ MORE</a> 
+ </p>
+ </div>
+
+</body>
+
+</html>
